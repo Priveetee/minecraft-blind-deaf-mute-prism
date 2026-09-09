@@ -2,13 +2,14 @@
 
 Instance client pour le serveur **Blind Deaf Mute** (`eltux.fr:31877`) - chacun perd un sens.
 
-- Minecraft 1.21.10
+- Minecraft 1.21.4
 - Fabric Loader 0.19.5
 - Blind Deaf Mute 1.0.0 (le mod du mode de jeu)
-- Simple Voice Chat 2.6.23 (obligatoire, force par le serveur)
-- Sodium 0.7.3
-- Fabric API 0.141.6
+- Simple Voice Chat 2.6.20 (obligatoire, force par le serveur)
+- Sodium 0.6.13
+- Fabric API 0.119.4
 - Lithium, FerriteCore, Krypton
+- Player Revive et Emotecraft (comme le pack officiel de l'auteur)
 
 ## Installation dans Prism Launcher
 

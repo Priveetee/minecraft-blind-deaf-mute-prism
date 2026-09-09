@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.21.10-fabric-0.19.5",
+  "versionId": "1.21.4-fabric-0.19.5",
   "name": "Minecraft Blind Deaf Mute",
   "summary": "Client Prism pour le serveur Blind Deaf Mute - chacun perd un sens",
   "files": [
@@ -21,98 +21,128 @@
       "fileSize": 416125
     },
     {
-      "path": "mods/voicechat-fabric-1.21.10-2.6.23.jar",
+      "path": "mods/voicechat-fabric-1.21.4-2.6.20.jar",
       "hashes": {
-        "sha1": "e055764ac9cf86c00b7ae46f1a49e7db13c5682d",
-        "sha512": "8a7a41d5e795b645fbf65193652cae681e850598b5e55503e6aa93e0f77626fd81a6ca3554784fc6b78482dc5dde822a8dfd30ae73320e6594bb3d28a342934d"
+        "sha1": "4ea1ccc5553964208d01673676b5df39c513a081",
+        "sha512": "3d90d7dbffc5dcb653f991bf9f4055355c30e3a5f0e572e1c0fe5c56d7d0762a70809f191aacc7a9625b59ecab2c2bbac5428fd56bf7ce26e7a1fa9d7bbae762"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/DfqrmRqL/voicechat-fabric-1.21.10-2.6.23.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/B0SmLrhu/voicechat-fabric-1.21.4-2.6.20.jar"
       ],
-      "fileSize": 5533213
+      "fileSize": 5369121
     },
     {
-      "path": "mods/fabric-api-0.138.4+1.21.10.jar",
+      "path": "mods/fabric-api-0.119.4+1.21.4.jar",
       "hashes": {
-        "sha1": "0345c20b71007521a25b393091adeb45328d7c57",
-        "sha512": "5e64c53391dfd1c059777d671c52be17a4e27a29d9bd7340ea9e3f55ce7a770b38db0a15e0966e981ee8c1b9372fb89543a278521624689268acebb85bd5c6e9"
+        "sha1": "1c7871b6af04edc8b8f0dbad12606d67f6118a11",
+        "sha512": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/tV4Gc0Zo/fabric-api-0.138.4%2B1.21.10.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
       ],
-      "fileSize": 2375888
+      "fileSize": 2149128
     },
     {
-      "path": "mods/sodium-fabric-0.7.3+mc1.21.10.jar",
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.4.jar",
       "hashes": {
-        "sha1": "1c3ffa862d9fa4479abf67a88527907d60237248",
-        "sha512": "1cccdc75d972f5c176a488dcc84cce7320b608a2d105412f2847245affbf5aa22b1995eda392132453fa6e1a9154ac99a87acaf8d7989b9f1a23ac1059a93daf"
+        "sha1": "c881d2db971207c396b5629632437f1520c0c478",
+        "sha512": "2c72ca2ddfd27e29ff6c24fccdf6f3d80857bd1014c707017f96cb4a424f94918e53ba21d85f22e3c9171803f8d2c12c99ae857d38d8e85546cc65960b95a2f1"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/sFfidWgd/sodium-fabric-0.7.3%2Bmc1.21.10.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
       ],
-      "fileSize": 1676903
+      "fileSize": 1306799
     },
     {
-      "path": "mods/lithium-fabric-0.20.1+mc1.21.10.jar",
+      "path": "mods/lithium-fabric-0.15.3+mc1.21.4.jar",
       "hashes": {
-        "sha1": "7d44f5da9c690bbf1bd6d65c1acc81db5cf7f8c6",
-        "sha512": "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
+        "sha1": "b7100505d1178b0f9a1dac4a24472ad1293b890c",
+        "sha512": "b8b541c0e968571c8972872b342e34b92573bc9210d455dc1349589f30a67a90d930dbfd99b176ab9b110350ceb53e11118378dc13a35e83a9090826627bdac0"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/u8pHPXJl/lithium-fabric-0.15.3%2Bmc1.21.4.jar"
       ],
-      "fileSize": 835455
+      "fileSize": 797555
     },
     {
-      "path": "mods/ferritecore-8.1.0-fabric.jar",
+      "path": "mods/ferritecore-7.1.3-fabric.jar",
       "hashes": {
-        "sha1": "fbc854f0a30657a0f8b4a5c79ce6580f3f8fbea9",
-        "sha512": "0596c83d69867380260e20500e5ab184415a1178317464c2b7c8c68a87db435fbe7a80b22b4f50b56558d6506f7dbb35ad7bda16f46eab5b79d38f0d726f08f5"
+        "sha1": "7b08d3c7242b18c9e15c11d365d368dde6955a9c",
+        "sha512": "74487d6efa6e973914665d0fdf366156c47e26a0e52a492ec5d5b68d7ea331535fa2cb46eb95a8846e3b2f0318bbcfdff3885df0bfce1bc83696b211d95e9863"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/bPLllEgi/ferritecore-8.1.0-fabric.jar"
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/7KqeXPRS/ferritecore-7.1.3-fabric.jar"
       ],
-      "fileSize": 82450
+      "fileSize": 109879
     },
     {
-      "path": "mods/krypton-0.2.10.jar",
+      "path": "mods/krypton-0.2.8.jar",
       "hashes": {
-        "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
-        "sha512": "4dcd7228d1890ddfc78c99ff284b45f9cf40aae77ef6359308e26d06fa0d938365255696af4cc12d524c46c4886cdcd19268c165a2bf0a2835202fe857da5cab"
+        "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
+        "sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar"
+        "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
       ],
-      "fileSize": 270195
+      "fileSize": 161045
+    },
+    {
+      "path": "mods/player-revive-1.9+1.21.2-1.21.4+Datapack.jar",
+      "hashes": {
+        "sha1": "e34a00a8ffd7d07124b524846bc99cc3535787da",
+        "sha512": "19652e633b64d4580ad85dbb70129fc020594c2c52fd1d4f1ae1e3354a99fc089c112786cbb5ce9027f97798234b6e1d6a921ab883b6486dbf15f75e682c56ed"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/x1IFRoPF/versions/eYf7wo6k/player-revive-1.9%2B1.21.2-1.21.4%2BDatapack.jar"
+      ],
+      "fileSize": 58944
+    },
+    {
+      "path": "mods/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+      "hashes": {
+        "sha1": "1f37118b21bdab013df726f6ec2776aa87ccd0e1",
+        "sha512": "4c0b18bf1d182ee73ad3046a8673354a79114f83b688fb7fe11142aa10b517ebcd4ccccf267f921effc9a4c538ca9248bb4b28d425750289dcade21c07a6f42d"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/pZ2wrerK/versions/njhJbosE/emotecraft-fabric-for-MC1.21.4-2.5.8.jar"
+      ],
+      "fileSize": 1259819
     }
   ],
   "dependencies": {
-    "minecraft": "1.21.10",
+    "minecraft": "1.21.4",
     "fabric-loader": "0.19.5"
   }
 }
