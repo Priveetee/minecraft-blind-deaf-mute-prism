@@ -1,0 +1,111 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.21.11-fabric-0.19.5",
+  "name": "Minecraft Blind Deaf Mute",
+  "summary": "Client Prism pour le serveur Blind Deaf Mute - chacun perd un sens",
+  "files": [
+    {
+      "path": "mods/blind-deaf-muted-1.0.0.jar",
+      "hashes": {
+        "sha1": "2205cfdfe055dcb37b35004d7364eb1d739f88d1"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xFVAWPKs/versions/KKLP5qtA/blind-deaf-muted-1.0.0.jar"
+      ],
+      "fileSize": 416125
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.11-2.6.23.jar",
+      "hashes": {
+        "sha1": "9b13ea307717203133640cb07766669c5d7a6e42"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/wxtfwA33/voicechat-fabric-1.21.11-2.6.23.jar"
+      ],
+      "fileSize": 5595150
+    },
+    {
+      "path": "mods/fabric-api-0.141.6+1.21.11.jar",
+      "hashes": {
+        "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar"
+      ],
+      "fileSize": 2426039
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.14+mc1.21.11.jar",
+      "hashes": {
+        "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 1909150
+    },
+    {
+      "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
+      "hashes": {
+        "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 900462
+    },
+    {
+      "path": "mods/ferritecore-8.2.0-fabric.jar",
+      "hashes": {
+        "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar"
+      ],
+      "fileSize": 80138
+    },
+    {
+      "path": "mods/krypton-0.2.10.jar",
+      "hashes": {
+        "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar"
+      ],
+      "fileSize": 270195
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.21.11",
+    "fabric-loader": "0.19.5"
+  }
+}
