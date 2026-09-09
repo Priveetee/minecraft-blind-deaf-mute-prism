@@ -8,7 +8,8 @@
     {
       "path": "mods/blind-deaf-muted-1.0.0.jar",
       "hashes": {
-        "sha1": "2205cfdfe055dcb37b35004d7364eb1d739f88d1"
+        "sha1": "2205cfdfe055dcb37b35004d7364eb1d739f88d1",
+        "sha512": "7625acf75a7ba1c69b5c1b47a89365d09ed6f1f5f2fdd2a715b2063e1d84631e783057775bbabf6129238ef7ac6c3b6bf2ab4abcc9d957582a38a1ab75cd7cbb"
       },
       "env": {
         "client": "required",
@@ -22,7 +23,8 @@
     {
       "path": "mods/voicechat-fabric-1.21.11-2.6.23.jar",
       "hashes": {
-        "sha1": "9b13ea307717203133640cb07766669c5d7a6e42"
+        "sha1": "9b13ea307717203133640cb07766669c5d7a6e42",
+        "sha512": "588c7a7cf475d535c1d9296cfd002bc51a2c3d91ffcda0a3f6ad2f6cafca3ecb34b0732b04c9fc114ce58f325f3dcb59851c4a3a1398113657e4b9b606f1b122"
       },
       "env": {
         "client": "required",
@@ -78,7 +80,8 @@
     {
       "path": "mods/ferritecore-8.2.0-fabric.jar",
       "hashes": {
-        "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
+        "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
+        "sha512": "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869"
       },
       "env": {
         "client": "required",
@@ -92,7 +95,8 @@
     {
       "path": "mods/krypton-0.2.10.jar",
       "hashes": {
-        "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99"
+        "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+        "sha512": "4dcd7228d1890ddfc78c99ff284b45f9cf40aae77ef6359308e26d06fa0d938365255696af4cc12d524c46c4886cdcd19268c165a2bf0a2835202fe857da5cab"
       },
       "env": {
         "client": "required",
